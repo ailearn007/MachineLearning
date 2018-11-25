@@ -1,3 +1,4 @@
+#coding = utf-8
 import numpy as np
 import h5py
 import matplotlib.pyplot as plt
@@ -64,18 +65,18 @@ if __name__ == '__main__':
 
     model.fit(x= X_train, y = Y_train, epochs= 30, batch_size= 64, verbose= 2)
 
-
-
     loss, accuracy = model.evaluate(X_train, Y_train)
     print(loss, accuracy)
     loss, accuracy = model.evaluate(X_test, Y_test)
     print(loss, accuracy)
 
     model.summary()
+    # pydot与graphviz 安装有问题！
+    # pydot1.1.0版本支持grapgviz，而pydot1.1.0与python3.6不兼容
     # plot_model(model, to_file= 'LeNet5_K2.png')
     # SVG(model_to_dot(model).create(prog='dot', format='svg'))
 
-
+    # 保存模型
     # model.save('my_LeNet_5.h5')
     # model_1 = load_model('my_LeNet_5.h5')
     # loss, accuracy = model_1.evaluate(X_test, Y_test)
@@ -98,4 +99,3 @@ if __name__ == '__main__':
     # model.save_weights('my_LeNet_5_weights.h5')
     # model.load_weights('my_LeNet_5_weights.h5')
     # model.load_weights('my_LeNet_5_weights.h5', by_name= True)
-

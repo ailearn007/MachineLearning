@@ -1,0 +1,10 @@
+# coding = utf-8
+# 利用CNN构造类似于LeNet-5网络模型，用于识别手势
+# X -> CONV_1 -> MAX-POOL -> CONV_2 -> MAX-POOL -> FC3 -> FC4 -> FC5(softmax) -> Y_
+# 输入：手势图片， shape = （None, 64, 64, 3)
+# 输出：手势图片对应的数字或one-hot向量
+
+# LeNet_5.py 利用numpy等基础包编写程序
+# FC_nets.py 利用numpy等基础包编写全连接层相关函数，辅助LEeNet_5.py
+# LeNet_5_Keras.py 利用Keras框架构建Sequential模型
+# LeNet_5_Keras_v2.py 利用Keras框架构建Model模型

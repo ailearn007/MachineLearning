@@ -424,7 +424,7 @@ if __name__ == '__main__':
     start_time = time.time()
     parameters, costs = CNN_model(X_train, Y_train, \
                            learning_rate = 0.009, max_epoch = 80, \
-                           batch_size = 16, print_cost = True)
+                           batch_size = 8, print_cost = True)
     end_time = time.time()
     print('Training time is {0:<8.1f} s'.format(end_time - start_time))
 

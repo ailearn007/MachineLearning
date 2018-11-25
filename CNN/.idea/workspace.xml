@@ -10,7 +10,122 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="LeNet_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeNet_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3025">
+              <caret line="414" column="0" lean-forward="false" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+              <folding>
+                <element signature="e#141#158#0" expanded="false" />
+                <element signature="e#265#1062#0" expanded="false" />
+                <element signature="e#1098#1141#0" expanded="false" />
+                <element signature="e#1281#1308#0" expanded="false" />
+                <element signature="e#2023#2037#0" expanded="false" />
+                <element signature="e#2107#2231#0" expanded="false" />
+                <element signature="e#2277#2347#0" expanded="false" />
+                <element signature="e#2404#3337#0" expanded="false" />
+                <element signature="e#2749#3235#0" expanded="false" />
+                <element signature="e#2783#3235#0" expanded="false" />
+                <element signature="e#2898#3235#0" expanded="false" />
+                <element signature="e#3024#3235#0" expanded="false" />
+                <element signature="e#3373#3397#0" expanded="false" />
+                <element signature="e#3452#3594#0" expanded="false" />
+                <element signature="e#3637#5040#0" expanded="false" />
+                <element signature="e#4048#4947#0" expanded="false" />
+                <element signature="e#4165#4753#0" expanded="false" />
+                <element signature="e#4202#4753#0" expanded="false" />
+                <element signature="e#4243#4743#0" expanded="false" />
+                <element signature="e#5042#5058#0" expanded="false" />
+                <element signature="e#5138#5264#0" expanded="false" />
+                <element signature="e#5315#6397#0" expanded="false" />
+                <element signature="e#5649#6296#0" expanded="false" />
+                <element signature="e#5682#6296#0" expanded="false" />
+                <element signature="e#5795#6296#0" expanded="false" />
+                <element signature="e#5920#6296#0" expanded="false" />
+                <element signature="e#5962#6095#0" expanded="false" />
+                <element signature="e#6162#6296#0" expanded="false" />
+                <element signature="e#6435#6474#0" expanded="false" />
+                <element signature="e#6513#6602#0" expanded="false" />
+                <element signature="e#6638#7927#0" expanded="false" />
+                <element signature="e#6937#7907#0" expanded="false" />
+                <element signature="e#6997#7907#0" expanded="false" />
+                <element signature="e#7034#7907#0" expanded="false" />
+                <element signature="e#7075#7907#0" expanded="false" />
+                <element signature="e#7302#7632#0" expanded="false" />
+                <element signature="e#7700#7907#0" expanded="false" />
+                <element signature="e#7949#8020#0" expanded="false" />
+                <element signature="e#8057#8115#0" expanded="false" />
+                <element signature="e#8142#8425#0" expanded="false" />
+                <element signature="e#8453#8959#0" expanded="false" />
+                <element signature="e#8999#9650#0" expanded="false" />
+                <element signature="e#9050#9318#0" expanded="false" />
+                <element signature="e#9324#9347#0" expanded="false" />
+                <element signature="e#9690#10536#0" expanded="false" />
+                <element signature="e#10402#10513#0" expanded="false" />
+                <element signature="e#10577#11394#0" expanded="false" />
+                <element signature="e#10615#10717#0" expanded="false" />
+                <element signature="e#12371#12388#0" expanded="false" />
+                <element signature="e#12611#13058#0" expanded="false" />
+                <element signature="e#13257#13607#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FC_nets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FC_nets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+              <folding>
+                <element signature="e#61#94#0" expanded="false" />
+                <element signature="e#115#140#0" expanded="false" />
+                <element signature="e#162#199#0" expanded="false" />
+                <element signature="e#223#270#0" expanded="false" />
+                <element signature="e#392#877#0" expanded="false" />
+                <element signature="e#3160#3307#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeNet_5_Keras.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-372">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
+                <element signature="e#334#1131#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeNet_5_Keras_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1775">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Descriptions" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Descriptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,18 +146,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FC_nets.py" />
-        <option value="$PROJECT_DIR$/LeNet_5.py" />
         <option value="$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
-        <option value="$PROJECT_DIR$/LeNet_5_Keras.py" />
         <option value="$PROJECT_DIR$/LeNet_5_Keras_v2.py" />
+        <option value="$PROJECT_DIR$/LeNet_5_Keras.py" />
+        <option value="$PROJECT_DIR$/LeNet_5.py" />
+        <option value="$PROJECT_DIR$/Descriptions" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-174" />
-    <option name="y" value="-19" />
-    <option name="width" value="1918" />
-    <option name="height" value="1029" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -59,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,15 +183,34 @@
               <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="FC_nets.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="LeNet_5.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="LeNet_5_Keras.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="LeNet_5_Keras_v2.py" type="8704e2dd:PyFileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -89,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeNet_5_Keras_v2">
+  <component name="RunManager" selected="Python.LeNet_5">
     <configuration name="6-CNN_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,10 +320,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
-        <item index="2" class="java.lang.String" itemvalue="Python.6-CNN_example" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeNet_5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeNet_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
+        <item index="3" class="java.lang.String" itemvalue="Python.6-CNN_example" />
         <item index="4" class="java.lang.String" itemvalue="Python.FC_nets" />
       </list>
     </recent_temporary>
@@ -196,10 +332,11 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31759655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3552941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19313304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35450345" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39882353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -209,16 +346,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3552941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39882353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -226,18 +357,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/layers/pooling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="224" column="39" lean-forward="false" selection-start-line="224" selection-start-column="39" selection-end-line="224" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
     <entry file="file://$PROJECT_DIR$/LeNet_5.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1265,13 +1389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="90" column="5" lean-forward="false" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -1279,22 +1396,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
     <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        <state relative-caret-position="1775">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
+    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+            <element signature="e#334#1131#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FC_nets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+        <state relative-caret-position="810">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
           <folding>
+            <element signature="e#61#94#0" expanded="false" />
             <element signature="e#115#140#0" expanded="false" />
             <element signature="e#162#199#0" expanded="false" />
             <element signature="e#223#270#0" expanded="false" />
+            <element signature="e#392#877#0" expanded="false" />
             <element signature="e#3160#3307#1" expanded="false" />
           </folding>
         </state>
@@ -1302,8 +1435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeNet_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="3025">
+          <caret line="414" column="0" lean-forward="false" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
           <folding>
             <element signature="e#141#158#0" expanded="false" />
             <element signature="e#265#1062#0" expanded="false" />
@@ -1357,6 +1490,14 @@
             <element signature="e#12611#13058#0" expanded="false" />
             <element signature="e#13257#13607#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
