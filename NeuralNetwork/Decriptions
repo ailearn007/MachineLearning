@@ -1,0 +1,10 @@
+# coding = utf-8
+# 利用NN对数据进行二分类
+# 输入X shape = （2,300）
+# 标签label shape = （1,300）
+
+# networks.py & networks2.py ① 最原始的NN网络
+# networks_regularization.py ② 在①基础上增加正则化防止过拟合
+# networks_ADAM.py           ③ 在①基础上增加Adam优化，加速收敛
+# networks_ADAM_MBGD.py      ④ 在③的基础上增加批量下降，加速收敛和下降
+# NN_Keras.py                ⑤ 利用Keras建立④的模型 可以看到效果相似，但训练速度提升很大
