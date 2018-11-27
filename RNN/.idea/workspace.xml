@@ -11,15 +11,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RNNs.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RNNs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RNNs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="378">
+              <caret line="215" column="49" lean-forward="true" selection-start-line="215" selection-start-column="49" selection-end-line="215" selection-end-column="49" />
               <folding>
                 <element signature="e#102#120#0" expanded="true" />
-                <element signature="e#396#414#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RNN_Keras.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RNN_Keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ansitowin32.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/colorama/ansitowin32.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="np_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/utils/np_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recurrent.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/layers/recurrent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="869" column="0" lean-forward="true" selection-start-line="869" selection-start-column="0" selection-end-line="869" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -27,7 +68,7 @@
       <file leaf-file-name="RNNS_v2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RNNS_v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1950">
+            <state relative-caret-position="760">
               <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
@@ -50,6 +91,7 @@
       <list>
         <option value="$PROJECT_DIR$/RNNS_v2.py" />
         <option value="$PROJECT_DIR$/RNNs.py" />
+        <option value="$PROJECT_DIR$/RNN_Keras.py" />
       </list>
     </option>
   </component>
@@ -85,12 +127,134 @@
             <path>
               <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
               <item name="RNN" type="462c0819:PsiDirectoryNode" />
+              <item name="RNN_Keras.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RNN" type="462c0819:PsiDirectoryNode" />
               <item name="RNNs.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
               <item name="RNN" type="462c0819:PsiDirectoryNode" />
               <item name="RNNS_v2.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-1356096448" type="70582d5e:PySkeletonsNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-1356096448" type="70582d5e:PySkeletonsNode" />
+              <item name="builtins.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-1356096448" type="70582d5e:PySkeletonsNode" />
+              <item name="builtins.py" type="8704e2dd:PyFileNode" />
+              <item name="str" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+              <item name="ansitowin32.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+              <item name="ansitowin32.py" type="8704e2dd:PyFileNode" />
+              <item name="StreamWrapper" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+              <item name="recurrent.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+              <item name="recurrent.py" type="8704e2dd:PyFileNode" />
+              <item name="SimpleRNN" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="np_utils.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -99,8 +263,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/ML-codes_NQ/RNN" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RNNs">
+  <component name="RunManager" selected="Python.RNN_Keras">
     <configuration name="RNNS_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,6 +292,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RNN" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNNS_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="RNN_Keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RNN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_Keras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,14 +330,16 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.RNNs" />
       <item index="1" class="java.lang.String" itemvalue="Python.RNNS_v2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RNN_Keras" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.RNNs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RNNS_v2" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.RNN_Keras" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RNNs" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RNNS_v2" />
       </list>
     </recent_temporary>
   </component>
@@ -167,8 +350,8 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15396996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29676676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15611587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29676676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -198,7 +381,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -219,7 +401,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -240,7 +421,26 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNNS_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNNs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#120#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -261,7 +461,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -272,7 +471,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -283,7 +481,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -294,14 +491,13 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RNNS_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
+        <state relative-caret-position="760">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding>
             <element signature="e#24#42#0" expanded="true" />
@@ -309,13 +505,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/layers/recurrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="869" column="0" lean-forward="true" selection-start-line="869" selection-start-column="0" selection-end-line="869" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu4.0/system/python_stubs/-1356096448/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="5051" column="8" lean-forward="false" selection-start-line="5051" selection-start-column="8" selection-end-line="5051" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/utils/np_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/colorama/ansitowin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RNNs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="378">
+          <caret line="215" column="49" lean-forward="true" selection-start-line="215" selection-start-column="49" selection-end-line="215" selection-end-column="49" />
           <folding>
             <element signature="e#102#120#0" expanded="true" />
-            <element signature="e#396#414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN_Keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
