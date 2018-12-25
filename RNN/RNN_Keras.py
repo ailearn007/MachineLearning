@@ -1,7 +1,10 @@
 #coding = utf-8
+import time
+import numpy as np
 from keras.layers import SimpleRNN, Input, Dense, Activation
 from keras.models import Model
 from keras.utils.np_utils import to_categorical
+from keras import callbacks
 
 def dataLoad_2(filename):
     data = open(filename, 'r').read()
@@ -40,12 +43,16 @@ if __name__  == '__main__':
     train_X = form_train_X()
 
     inputs = Input(train_X.shape[1:])
-    X = SimpleRNN(train_X.shape[1], return_sequences= True)(inputs)
+    X = SimpleRNN(train_X.shape[1], return_sequences= True, unroll= True)(inputs)
     X = Dense(train_X.shape[2])(X)
     X = Activation('softmax')(X)
 
     model = Model(input = inputs, output = X)
     model.compile(optimizer= 'adam', loss= 'categorical_crossentropy', metrics= ['accuracy'])
-    model.fit(train_X, train_X, epochs= 85, batch_size= 256, verbose= 2)
+
+    t1 = time.time()
+    model.fit(train_X, train_X, epochs= 85, batch_size= 256, verbose= 1, callbacks=[callbacks.ProgbarLogger()])
+    t2 = time.time()
 
     model.summary()
+    print(t2 - t1, 's')

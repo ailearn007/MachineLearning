@@ -1,4 +1,4 @@
-# coding = utf-8
+#coding:utf-8
 import numpy as np
 from keras.layers import Dense, Input, Activation, initializers
 from keras.models import Sequential, Model

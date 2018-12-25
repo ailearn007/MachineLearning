@@ -14,12 +14,9 @@
       <file leaf-file-name="LeNet_5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeNet_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3200">
-              <caret line="414" column="0" lean-forward="false" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
-                <element signature="e#16#27#0" expanded="true" />
-                <element signature="e#265#1062#0" expanded="false" />
-                <element signature="e#1098#1141#0" expanded="false" />
                 <element signature="e#1281#1308#0" expanded="false" />
                 <element signature="e#2023#2037#0" expanded="false" />
                 <element signature="e#2107#2231#0" expanded="false" />
@@ -103,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeNet_5_Keras_v2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeNet_5_Keras_v2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-474">
-              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="1500">
+              <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
               <folding>
                 <element signature="e#16#34#0" expanded="true" />
               </folding>
@@ -118,9 +115,35 @@
       <file leaf-file-name="Descriptions" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Descriptions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeNet_5_tf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeNet_5_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#39#0" expanded="true" />
+                <element signature="e#129#926#0" expanded="false" />
+                <element signature="e#956#1338#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tf_restore.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_restore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#16#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,14 +174,16 @@
         <option value="$PROJECT_DIR$/LeNet_5.py" />
         <option value="$PROJECT_DIR$/Descriptions" />
         <option value="$PROJECT_DIR$/LeNet_5_Keras_v2.py" />
+        <option value="$PROJECT_DIR$/tf_restore.py" />
+        <option value="$PROJECT_DIR$/LeNet_5_tf.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1742" />
-    <option name="y" value="-23" />
-    <option name="width" value="1936" />
-    <option name="height" value="882" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -175,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,11 +228,200 @@
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="LeNet_5_Keras_v2.py" type="8704e2dd:PyFileNode" />
             </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="LeNet_5_tf.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="codecs.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="codecs.py" type="8704e2dd:PyFileNode" />
+              <item name="BufferedIncrementalDecoder" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+              <item name="ansitowin32.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="colorama" type="462c0819:PsiDirectoryNode" />
+              <item name="ansitowin32.py" type="8704e2dd:PyFileNode" />
+              <item name="StreamWrapper" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="session.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="session.py" type="8704e2dd:PyFileNode" />
+              <item name="BaseSession" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="op_def_library.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="op_def_library.py" type="8704e2dd:PyFileNode" />
+              <item name="OpDefLibrary" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="ops.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="ops.py" type="8704e2dd:PyFileNode" />
+              <item name="Tensor" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="ops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="ops" type="462c0819:PsiDirectoryNode" />
+              <item name="gen_nn_ops.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="CNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.2 (D:\Anaconda3\envs\tensorflow-gpu\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="ops" type="462c0819:PsiDirectoryNode" />
+              <item name="nn_ops.py" type="8704e2dd:PyFileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,41 +440,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeNet_5_Keras_v2">
-    <configuration name="6-CNN_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CNN" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="FC_nets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CNN" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FC_nets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.LeNet_5_tf">
     <configuration name="LeNet_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,20 +492,54 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="LeNet_5_tf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CNN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeNet_5_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tf_restore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CNN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_restore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.LeNet_5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.FC_nets" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6-CNN_example" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeNet_5_tf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tf_restore" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeNet_5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6-CNN_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FC_nets" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeNet_5_tf" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tf_restore" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeNet_5_Keras_v2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeNet_5_Keras" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeNet_5" />
       </list>
     </recent_temporary>
   </component>
@@ -332,14 +547,14 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20118026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21781115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44341803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44341803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39882353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39838338" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -351,6 +566,23 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44341803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21190988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39838338" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -362,185 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
-    <entry file="file://$PROJECT_DIR$/LeNet_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
-            <element signature="e#1281#1308#0" expanded="false" />
-            <element signature="e#2023#2037#0" expanded="false" />
-            <element signature="e#2107#2231#0" expanded="false" />
-            <element signature="e#2277#2347#0" expanded="false" />
-            <element signature="e#2404#3337#0" expanded="false" />
-            <element signature="e#2749#3235#0" expanded="false" />
-            <element signature="e#2783#3235#0" expanded="false" />
-            <element signature="e#2898#3235#0" expanded="false" />
-            <element signature="e#3024#3235#0" expanded="false" />
-            <element signature="e#3373#3397#0" expanded="false" />
-            <element signature="e#3452#3594#0" expanded="false" />
-            <element signature="e#3637#5040#0" expanded="false" />
-            <element signature="e#4048#4947#0" expanded="false" />
-            <element signature="e#4165#4753#0" expanded="false" />
-            <element signature="e#4202#4753#0" expanded="false" />
-            <element signature="e#4243#4743#0" expanded="false" />
-            <element signature="e#5042#5058#0" expanded="false" />
-            <element signature="e#5138#5264#0" expanded="false" />
-            <element signature="e#5315#6397#0" expanded="false" />
-            <element signature="e#5649#6296#0" expanded="false" />
-            <element signature="e#5682#6296#0" expanded="false" />
-            <element signature="e#5795#6296#0" expanded="false" />
-            <element signature="e#5920#6296#0" expanded="false" />
-            <element signature="e#5962#6095#0" expanded="false" />
-            <element signature="e#6162#6296#0" expanded="false" />
-            <element signature="e#6435#6474#0" expanded="false" />
-            <element signature="e#6513#6602#0" expanded="false" />
-            <element signature="e#6638#7927#0" expanded="false" />
-            <element signature="e#6937#7907#0" expanded="false" />
-            <element signature="e#6997#7907#0" expanded="false" />
-            <element signature="e#7034#7907#0" expanded="false" />
-            <element signature="e#7075#7907#0" expanded="false" />
-            <element signature="e#7302#7632#0" expanded="false" />
-            <element signature="e#7700#7907#0" expanded="false" />
-            <element signature="e#7949#8020#0" expanded="false" />
-            <element signature="e#8057#8115#0" expanded="false" />
-            <element signature="e#8142#8425#0" expanded="false" />
-            <element signature="e#8453#8959#0" expanded="false" />
-            <element signature="e#8999#9650#0" expanded="false" />
-            <element signature="e#9050#9318#0" expanded="false" />
-            <element signature="e#9324#9347#0" expanded="false" />
-            <element signature="e#9690#10536#0" expanded="false" />
-            <element signature="e#10402#10513#0" expanded="false" />
-            <element signature="e#10577#11394#0" expanded="false" />
-            <element signature="e#10615#10717#0" expanded="false" />
-            <element signature="e#12371#12388#0" expanded="false" />
-            <element signature="e#12611#13058#0" expanded="false" />
-            <element signature="e#13257#13607#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FC_nets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#94#0" expanded="false" />
-            <element signature="e#115#140#0" expanded="false" />
-            <element signature="e#162#199#0" expanded="false" />
-            <element signature="e#223#270#0" expanded="false" />
-            <element signature="e#392#877#0" expanded="false" />
-            <element signature="e#3160#3307#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2150">
-          <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
-            <element signature="e#1281#1308#0" expanded="false" />
-            <element signature="e#2023#2037#0" expanded="false" />
-            <element signature="e#2107#2231#0" expanded="false" />
-            <element signature="e#2277#2347#0" expanded="false" />
-            <element signature="e#2404#3337#0" expanded="false" />
-            <element signature="e#2749#3235#0" expanded="false" />
-            <element signature="e#2783#3235#0" expanded="false" />
-            <element signature="e#2898#3235#0" expanded="false" />
-            <element signature="e#3024#3235#0" expanded="false" />
-            <element signature="e#3373#3397#0" expanded="false" />
-            <element signature="e#3452#3594#0" expanded="false" />
-            <element signature="e#3637#5040#0" expanded="false" />
-            <element signature="e#4048#4947#0" expanded="false" />
-            <element signature="e#4165#4753#0" expanded="false" />
-            <element signature="e#4202#4753#0" expanded="false" />
-            <element signature="e#4243#4743#0" expanded="false" />
-            <element signature="e#5042#5058#0" expanded="false" />
-            <element signature="e#5138#5264#0" expanded="false" />
-            <element signature="e#5315#6397#0" expanded="false" />
-            <element signature="e#5649#6296#0" expanded="false" />
-            <element signature="e#5682#6296#0" expanded="false" />
-            <element signature="e#5795#6296#0" expanded="false" />
-            <element signature="e#5920#6296#0" expanded="false" />
-            <element signature="e#5962#6095#0" expanded="false" />
-            <element signature="e#6162#6296#0" expanded="false" />
-            <element signature="e#6435#6474#0" expanded="false" />
-            <element signature="e#6513#6602#0" expanded="false" />
-            <element signature="e#6638#7927#0" expanded="false" />
-            <element signature="e#6937#7907#0" expanded="false" />
-            <element signature="e#6997#7907#0" expanded="false" />
-            <element signature="e#7034#7907#0" expanded="false" />
-            <element signature="e#7075#7907#0" expanded="false" />
-            <element signature="e#7302#7632#0" expanded="false" />
-            <element signature="e#7700#7907#0" expanded="false" />
-            <element signature="e#7949#8020#0" expanded="false" />
-            <element signature="e#8057#8115#0" expanded="false" />
-            <element signature="e#8142#8425#0" expanded="false" />
-            <element signature="e#8453#8959#0" expanded="false" />
-            <element signature="e#8999#9650#0" expanded="false" />
-            <element signature="e#9050#9318#0" expanded="false" />
-            <element signature="e#9324#9347#0" expanded="false" />
-            <element signature="e#9690#10536#0" expanded="false" />
-            <element signature="e#10402#10513#0" expanded="false" />
-            <element signature="e#10577#11394#0" expanded="false" />
-            <element signature="e#10615#10717#0" expanded="false" />
-            <element signature="e#12371#12388#0" expanded="false" />
-            <element signature="e#12611#13058#0" expanded="false" />
-            <element signature="e#13257#13607#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FC_nets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-          <folding>
-            <element signature="e#61#94#0" expanded="false" />
-            <element signature="e#115#140#0" expanded="false" />
-            <element signature="e#162#199#0" expanded="false" />
-            <element signature="e#223#270#0" expanded="false" />
-            <element signature="e#392#877#0" expanded="false" />
-            <element signature="e#3160#3307#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2150">
-          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="25" selection-end-line="100" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
     <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/layers/convolutional.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -561,9 +614,6 @@
         <state relative-caret-position="375">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -665,9 +715,6 @@
         <state relative-caret-position="725">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -747,9 +794,6 @@
         <state relative-caret-position="10650">
           <caret line="426" column="42" lean-forward="false" selection-start-line="426" selection-start-column="42" selection-end-line="426" selection-end-column="42" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -823,9 +867,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -898,9 +939,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -973,9 +1011,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1048,9 +1083,6 @@
         <state relative-caret-position="100">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1123,9 +1155,6 @@
         <state relative-caret-position="75">
           <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1198,9 +1227,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1258,9 +1284,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1318,9 +1341,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1409,22 +1429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="325" column="20" lean-forward="false" selection-start-line="325" selection-start-column="20" selection-end-line="325" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials-master/tutorials-master/kerasTUT/6-CNN_example.py" />
-    <entry file="file://$PROJECT_DIR$/Descriptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FC_nets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3600">
@@ -1440,14 +1445,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeNet_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3200">
-          <caret line="414" column="0" lean-forward="false" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
-            <element signature="e#265#1062#0" expanded="false" />
-            <element signature="e#1098#1141#0" expanded="false" />
             <element signature="e#1281#1308#0" expanded="false" />
             <element signature="e#2023#2037#0" expanded="false" />
             <element signature="e#2107#2231#0" expanded="false" />
@@ -1500,6 +1510,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="955" column="0" lean-forward="false" selection-start-line="955" selection-start-column="0" selection-end-line="955" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/framework/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="787" column="0" lean-forward="false" selection-start-line="787" selection-start-column="0" selection-end-line="787" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1688" column="0" lean-forward="false" selection-start-line="1688" selection-start-column="0" selection-end-line="1688" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/colorama/ansitowin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1290" column="0" lean-forward="false" selection-start-line="1290" selection-start-column="0" selection-end-line="1290" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="587" column="19" lean-forward="true" selection-start-line="587" selection-start-column="19" selection-end-line="587" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_restore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeNet_5_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+            <element signature="e#129#926#0" expanded="false" />
+            <element signature="e#956#1338#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeNet_5_Keras.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -1507,16 +1609,6 @@
           <folding>
             <element signature="e#16#34#0" expanded="true" />
             <element signature="e#334#1131#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeNet_5_Keras_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-474">
-          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
